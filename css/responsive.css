@@ -1,0 +1,56 @@
+@media (max-width: 768px) {
+    
+    .bono-tag-img {
+        width: 100%;
+        max-width: 400px;
+    }
+
+    .section-left {
+        margin-top: 25%;
+        min-height: auto;
+    }
+
+    .section-right {
+        
+    }
+
+    .sz-750 {
+        height: 950px;
+    }
+
+    .logo-nav {
+        max-height: 80px;
+    }
+    
+    .bg-img-dog {
+        background-size: cover;
+        height: 200px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .contact-section {
+        height: 600px;
+        padding: 0px;
+    }
+
+    .icons-section img {
+        margin: 0 auto;
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    .icons-section .row:nth-child(2) {
+        margin-top: 20px;
+    }
+
+    footer {
+        height: 1000px;
+        padding: 10px;
+        background-size: cover;
+    }
+
+}
+

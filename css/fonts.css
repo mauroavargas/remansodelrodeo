@@ -1,0 +1,46 @@
+@font-face {
+    font-family: 'Pt Sans';
+    src: url('fonts/PTSans.ttc');
+    font-weight: 400;
+    font-style: normal;
+    }
+
+@font-face {
+    font-family: 'Pt Sans';
+    src: url('fonts/PTSans-Bold.ttf');
+    font-weight: bold;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('fonts/BebasNeue-Bold.otf');
+    font-weight: bold;
+    font-style: normal
+}
+
+@font-face {
+    font-family: 'Bebas';
+    src: url('fonts/BebasNeue-Book.otf');
+    font-weight: 400;
+    font-style: normal
+}
+
+.bebas-bold {
+    font-family: 'Bebas';
+    font-weight: bold;
+}
+
+.bebas {
+    font-family: 'Bebas';
+    font-weight: 400;
+}
+
+.pt-sans {
+    font-family: 'PT Sans'
+}
+
+.pt-sans-bold {
+    font-family: 'PT Sans';
+    font-weight: bold;
+}
